@@ -1,0 +1,82 @@
+#about{
+    height: 200px;
+}
+
+
+body {
+    font-family: cursive, sans-serif;
+    background-color: darkslategrey;
+}
+
+nav {
+    background-color: rgb(57, 252, 3);
+    color: white;
+    padding: 1px;
+}
+  
+  nav ul {
+    list-style-type: none;
+    text-align: left;
+    
+  }
+
+
+
+    nav ul li a {
+        color: mediumvioletred;
+        text-decoration: none;
+    }
+
+
+  
+  
+  
+  
+  
+  section#contact {
+    background-color: white;
+  }
+ 
+  .image {
+    width: 144px; 
+    height: 176px;
+    position: absolute;
+    right: 0;
+    padding: 50px;
+    margin-left: 100px;
+   
+      }
+      
+
+footer {
+    background-color: #500;
+    color: white;
+    padding: 1px;
+    text-align: center;
+  }
+  
+  footer #contact {
+    background-color: transparent; 
+    text-align: center;
+    padding: 100px;
+  
+  }
+  
+  footer #contact ul {
+    list-style-type: none;
+    padding: 10px;
+    text-align: center;
+    
+  }
+  
+  footer #contact li {
+    margin-right: 10px;
+  }
+  
+  footer #contact a {
+    color: white;
+    text-decoration: none;
+  }
+  
+
+  
